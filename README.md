@@ -52,7 +52,7 @@ const steps = [
 | `hideUserAvatar` | `PropTypes.bool`  | `false` | If true the user avatar will be hidden in all steps |
 | `inputStyle` | `PropTypes.object`  | | The style object to use to override the input element |
 | `placeholder` | `PropTypes.string`  | `Type the message ...` | Chatbot input placeholder |
-| `sendButtonText` | `PropTypes.string`  | `Send` | Chatbot send button text |
+| `submitButtonText` | `PropTypes.string`  | `Send` | Chatbot send button text |
 | `steps` | `PropTypes.array`  | | The chatbot steps to display |
 | `style` | `PropTypes.object`  | | The style object to use to override the submit button element |
 | `submitButtonStyle` | `PropTypes.object`  | | The style object to use to override the button element |
